@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Secret Files
+.env
+credentials.json
+*.pickle
+
+# User Configuration
+config.yaml
+
+# Python cache files
+__pycache__/
+*.pyc
